@@ -1,0 +1,2 @@
+[functions.sarvam-proxy]
+verify_jwt = true
